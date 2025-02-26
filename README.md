@@ -1,22 +1,14 @@
 
 # 💫 About Me:
-🔧 **I'm currently working on:**<br>
-Developing a customized Minecraft server with a website for user login, a custom launcher, server interaction, and statistics. Also exploring Unity game development in my free time.<br><br>
+🤝 I'm looking to collaborate on:<br> Projects with game developers, backend web developers, and AI engineers to work with innovative, cutting-edge technologies.<br><br>
 
-🤝 **I'm looking to collaborate on:**<br>
-Projects with game developers, Minecraft modders, full-stack web developers, and AI engineers to work with innovative, cutting-edge technologies.<br><br>
+✋ I'm looking for help with:<br> Resources for learning new skills and support with project design aspects.<br><br>
 
-✋ **I'm looking for help with:**<br>
-Resources for learning new skills and support with project design aspects.<br><br>
+🌱 I'm currently learning:<br> Laravel, C# for Unity, Java, and Python.<br><br>
 
-🌱 **I'm currently learning:**<br>
-Laravel, C# for Unity, Java, and Python.<br><br>
+💬 Ask me about:<br> Game development in Unity, web development with Laravel, or server management.<br><br>
 
-💬 **Ask me about:**<br>
-Game development in Unity, Minecraft server management, or web development with Laravel.<br><br>
-
-⚡ **Fun fact:**<br>
-I enjoy diving into the inner mechanics of games, studying algorithms, and exploring encrypted files.<br>
+⚡ Fun fact:<br> I enjoy diving into the inner mechanics of games, studying algorithms, and exploring encrypted files.<br>
 
 
 ## 🌐 Socials:
